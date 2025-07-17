@@ -3,6 +3,7 @@ public class Advisor {
     private int id;
     private String name;
     private String placeName;
+    // added comment
 
     // Constructor
     public Advisor(int id, String name, String placeName) {
